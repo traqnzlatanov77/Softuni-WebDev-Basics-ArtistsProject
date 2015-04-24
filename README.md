@@ -1,0 +1,1 @@
+# Softuni-WebDev-Basics-ArtistsProject
