@@ -1,0 +1,16 @@
+li.info {
+    background-color: #7f7;
+}
+
+li.error {
+    background-color: #f77;
+}
+
+#rank-arrows {
+    display: table-caption;
+
+}
+
+#rank-arrows a {
+    text-decoration: none;
+}
